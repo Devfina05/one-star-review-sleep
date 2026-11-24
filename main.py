@@ -14,7 +14,7 @@ eight hours a night, nothing back, tired in the morning, would not renew.
 import os
 import sys
 
-# The review. 135 characters, one line, deadpan throughout: no exclamation
+# The review. 136 characters, one line, deadpan throughout: no exclamation
 # marks, no winking, the joke turns only in the last three words, when the
 # complaint becomes an action and the reviewer cancels the subscription.
 REVIEW = (
