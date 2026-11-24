@@ -14,11 +14,12 @@ eight hours a night, nothing back, tired in the morning, would not renew.
 import os
 import sys
 
-# The review. 125 characters, one line, deadpan throughout: no exclamation
-# marks, no winking, the joke turns only in the last three words.
+# The review. 135 characters, one line, deadpan throughout: no exclamation
+# marks, no winking, the joke turns only in the last three words, when the
+# complaint becomes an action and the reviewer cancels the subscription.
 REVIEW = (
     "One star. Sleep takes eight hours every night, gives nothing back, "
-    "and still leaves me tired in the morning. Would not renew."
+    "and still leaves me tired in the morning. Cancelling my subscription."
 )
 
 MAX_CHARS = 160

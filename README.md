@@ -8,7 +8,7 @@ A deadpan one-star review, 160 characters or fewer, of sleep — the everyday
 essential everyone pays for in hours every night. `main.py` writes the
 review to `/output/entry.txt`.
 
-> One star. Sleep takes eight hours every night, gives nothing back, and still leaves me tired in the morning. Would not renew.
+> One star. Sleep takes eight hours every night, gives nothing back, and still leaves me tired in the morning. Cancelling my subscription.
 
 Sleep: eight hours a night, nothing to show for it, and it still leaves you
 tired in the morning. A real complaint, filed in earnest, against a thing
